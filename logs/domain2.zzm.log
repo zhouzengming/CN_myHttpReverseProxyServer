@@ -1,0 +1,5 @@
+2023-05-28 21:03:49 - IP: 127.0.0.1 - Host: domain2.zzm - Request: / - Response Code: 200
+2023-05-28 21:03:49 - IP: 127.0.0.1 - Host: domain2.zzm - Request: /favicon.ico - Response Code: 404
+2023-05-28 21:06:44 - IP: 127.0.0.1 - Host: domain2.zzm - Request: / - Response Code: 304
+2023-05-28 21:15:32 - IP: 127.0.0.1 - Host: domain2.zzm - Request: / - Response Code: 200
+2023-05-28 21:15:32 - IP: 127.0.0.1 - Host: domain2.zzm - Request: /favicon.ico - Response Code: 404

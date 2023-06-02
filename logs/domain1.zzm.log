@@ -1,0 +1,7 @@
+2023-05-28 21:03:29 - IP: 127.0.0.1 - Host: domain1.zzm - Request: / - Response Code: 200
+2023-05-28 21:03:29 - IP: 127.0.0.1 - Host: domain1.zzm - Request: /favicon.ico - Response Code: 404
+2023-05-28 21:06:52 - IP: 127.0.0.1 - Host: domain1.zzm - Request: / - Response Code: 304
+2023-05-28 21:15:25 - IP: 127.0.0.1 - Host: domain1.zzm - Request: / - Response Code: 200
+2023-05-28 21:15:25 - IP: 127.0.0.1 - Host: domain1.zzm - Request: /favicon.ico - Response Code: 404
+2023-05-28 21:20:50 - IP: 127.0.0.1 - Host: domain1.zzm - Request: /page2.html - Response Code: 200
+2023-05-28 21:21:10 - IP: 127.0.0.1 - Host: domain1.zzm - Request: /sjafasf.html - Response Code: 404
